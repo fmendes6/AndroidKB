@@ -7,15 +7,22 @@ Interesting articles and videos to use as reference.
 | Title        | Author           | Date  |
 | ------------- |:-------------:| -----:|
 | [Radical RecyclerView] (https://www.youtube.com/watch?v=TS_J0Qw4zl0)     | Lisa Wray | November 2016 |
+| [Transitions in the Android Support Library] (https://medium.com/google-developers/transitions-in-the-android-support-library-8bc86a1d688e#.h52npyog3)     | Chet Haase | September 2016 |
+| [Animation Jump-Through] (https://medium.com/google-developers/animation-jump-through-861f4f5b3de4#.ok7erv3qx)     | Nick Butcher | December 2016 |
 
 
-### Architecture related (RxJava,DI,etc.)
+
+
+### General (Architecture,RxJava,DI,etc.)
 
 | Title        | Author           | Date  |
 | ------------- |:-------------:| -----:|
 | [Learning Rx by example](https://vimeo.com/190922794)    | Kaushik Gopal | November 2016 |
 | [Dependency Injection 101](https://medium.com/di-101/di-101-part-1-81896c2858a0#.idjcav520)    | Roberto Orgiu | August 2016 |
 | [Building UserScope with Dagger 2](http://frogermcs.github.io/building-userscope-with-dagger2/)    | Miroslaw Stanek | August 2016 |
+| [Clean code: Java class fields](https://www.novoda.com/blog/clean-code-java-class-fields/)    | Paul Blundell | September 2016 |
+| [Systems designed to scale](https://atscaleconference.com/videos-articles/)    | @Scale | November 2016 |
+
 
 
 ### Devops & Planning

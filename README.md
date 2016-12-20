@@ -43,8 +43,7 @@ Interesting articles and videos to use as reference.
 | [Flowup.io](https://flowup.io/)      | Performance Monitor | --- | 
 | [Android Studio Tips](https://medium.com/@mmbialas/50-android-studio-tips-tricks-resources-you-should-be-familiar-with-as-an-android-developer-af86e7cf56d2#.wrene0aa9) | Michal Bialas    |   November 2016  |  
 | [Mastering the terminal... ](https://medium.com/@cesarmcferreira/mastering-the-terminal-side-of-android-development-e7520466c521#.s0ve37m8d) | Cesar Ferreira |  November 2016  | 
-| [Best practices for Android Developers Productivity](
-https://medium.com/@sergii/best-practices-for-android-developer-productivity-cfd6ffba804c#.l0tvs35rv)      | Sergii Zhuk | July 2016 | 
+| [Best practices for Android Developers Productivity](https://medium.com/@sergii/best-practices-for-android-developer-productivity-cfd6ffba804c#.l0tvs35rv)      | Sergii Zhuk | July 2016 | 
 | [Sharing Android Studio settings with the team](https://tips.seebrock3r.me/share-settings-with-the-team-a-year-later-e28c24fc07aa#.tbg9yuh7l) | Sebastiano Poggi | December 2016 | 
 | [Make an android custom view, publish and open source](https://medium.com/dualcores-studio/make-an-android-custom-view-publish-and-open-source-99a3d86df228#.2w29cifdk)      | Engine Bai | November 2016 | 
 | [The death of Deep Linking](https://hackernoon.com/the-death-of-deep-linking-6cc65eb33e28#.eadvr5ver)      | Alex Bauer | December 2016 |

@@ -11,7 +11,7 @@ Interesting articles and videos to use as reference.
 | [Animation Jump-Through] (https://medium.com/google-developers/animation-jump-through-861f4f5b3de4#.ok7erv3qx)     | Nick Butcher | December 2016 |
 | [Why isn't my animation running] (https://medium.com/@chrisbanes/why-isnt-my-animation-running-34c529e76eaa#.coldo4797)     | Chris Banes | December 2016 |
 | [Facebook Keyframes] (https://code.facebook.com/posts/354469174916519/)     | Mark Peng | November 2016 |
-
+| [Efficient Android Layouts](https://realm.io/news/gotocph-daniel-lew-efficient-android-layouts/)    | Dan Lew | December 2016 |
 
 
 ### General (Architecture,RxJava,DI,etc.)
@@ -25,7 +25,6 @@ Interesting articles and videos to use as reference.
 | [Systems designed to scale](https://atscaleconference.com/videos-articles/)    | @Scale | November 2016 |
 | [Convert any Android event into a Rx Stream](https://medium.com/@sebaslogen/rxjava-recipe-convert-any-android-event-into-a-stream-c614ca686db0#.876j87392)    | Sebastian Genco | August 2016 |
 | [Engineering the new Rider app](https://eng.uber.com/new-rider-app/)    | Vivian Tran & Yixin Zhu | December 2016 |
-| [Efficient Android Layouts](https://realm.io/news/gotocph-daniel-lew-efficient-android-layouts/)    | Dan Lew | December 2016 |
 
 
 

@@ -51,7 +51,7 @@ Interesting articles and videos to use as reference.
 | [The death of Deep Linking](https://hackernoon.com/the-death-of-deep-linking-6cc65eb33e28#.eadvr5ver)      | Alex Bauer | December 2016 |
 | [Make your Android app look less shitty](https://hackernoon.com/make-your-android-app-look-less-shitty-5dd63c4938f1#.4pcw4ja2b)      | Antonio Tsagaris | December 2016 |
 | [Why you should care about copyright](http://jeroenmols.com/blog/2016/08/03/copyright/)      | Jeroen Mols | August 2016 |
-
+| [Android Icon Animator](https://romannurik.github.io/AndroidIconAnimator/)      | Roman Nurik | --- |
 
 
 

@@ -25,6 +25,8 @@ Interesting articles and videos to use as reference.
 | [Systems designed to scale](https://atscaleconference.com/videos-articles/)    | @Scale | November 2016 |
 | [Convert any Android event into a Rx Stream](https://medium.com/@sebaslogen/rxjava-recipe-convert-any-android-event-into-a-stream-c614ca686db0#.876j87392)    | Sebastian Genco | August 2016 |
 | [Engineering the new Rider app](https://eng.uber.com/new-rider-app/)    | Vivian Tran & Yixin Zhu | December 2016 |
+| [Testing Persistence in the Android ecosystem](https://www.novoda.com/blog/testing-persistence-in-the-android-ecosystem/)    | Luis G. Valle | January 2017 |
+
 
 
 

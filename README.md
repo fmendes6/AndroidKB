@@ -12,6 +12,8 @@ Interesting articles and videos to use as reference.
 | [Why isn't my animation running] (https://medium.com/@chrisbanes/why-isnt-my-animation-running-34c529e76eaa#.coldo4797)     | Chris Banes | December 2016 |
 | [Facebook Keyframes] (https://code.facebook.com/posts/354469174916519/)     | Mark Peng | November 2016 |
 | [Efficient Android Layouts](https://realm.io/news/gotocph-daniel-lew-efficient-android-layouts/)    | Dan Lew | December 2016 |
+| [Introducing Lottie](https://medium.com/airbnb-engineering/introducing-lottie-4ff4a0afac0e#.by1fjjw7e)      | Airbnb | February 2016 |
+
 
 
 ### General (Architecture,RxJava,DI,etc.)
@@ -54,6 +56,7 @@ Interesting articles and videos to use as reference.
 | [Make your Android app look less shitty](https://hackernoon.com/make-your-android-app-look-less-shitty-5dd63c4938f1#.4pcw4ja2b)      | Antonio Tsagaris | December 2016 |
 | [Why you should care about copyright](http://jeroenmols.com/blog/2016/08/03/copyright/)      | Jeroen Mols | August 2016 |
 | [Android Icon Animator](https://romannurik.github.io/AndroidIconAnimator/)      | Roman Nurik | --- |
+| [Effective Java for Android (cheatsheet)](https://medium.com/rocknnull/effective-java-for-android-cheatsheet-bf4e3433889a#.cmrrxxx6d)      | Netcyrax | November 2016 |
 
 
 

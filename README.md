@@ -57,6 +57,8 @@ Interesting articles and videos to use as reference.
 | [Why you should care about copyright](http://jeroenmols.com/blog/2016/08/03/copyright/)      | Jeroen Mols | August 2016 |
 | [Android Icon Animator](https://romannurik.github.io/AndroidIconAnimator/)      | Roman Nurik | --- |
 | [Effective Java for Android (cheatsheet)](https://medium.com/rocknnull/effective-java-for-android-cheatsheet-bf4e3433889a#.cmrrxxx6d)      | Netcyrax | November 2016 |
+| [The right way to ask users to review your app](https://medium.com/circa/the-right-way-to-ask-users-to-review-your-app-9a32fd604fca#.xe6xm4frh)      | Matt Galligan | December 2014 |
+
 
 
 

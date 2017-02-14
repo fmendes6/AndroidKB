@@ -29,7 +29,7 @@ Interesting articles and videos to use as reference.
 | [Engineering the new Rider app](https://eng.uber.com/new-rider-app/)    | Vivian Tran & Yixin Zhu | December 2016 |
 | [Testing Persistence in the Android ecosystem](https://www.novoda.com/blog/testing-persistence-in-the-android-ecosystem/)    | Luis G. Valle | January 2017 |
 | [React Native at Instagram](https://engineering.instagram.com/react-native-at-instagram-dd828a9a90c7#.8htx8t6eq)    | Instagram Engineering | February 2017 |
-
+| [Airplane Mode: Enabling Trello Mobile Offline](http://tech.trello.com/sync-architecture/)    | Dan Lew | February 2017 |
 
 
 

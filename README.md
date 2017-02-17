@@ -48,6 +48,7 @@ Interesting articles and videos to use as reference.
 | Title        | Description/Author         | Date  |   
 | ------------- |:-------------:| -----:|
 | [Flowup.io](https://flowup.io/)      | Performance Monitor | --- | 
+| [Sensei - Gesture Detection android library](https://android.jlelse.eu/i-could-not-find-a-simple-gesture-detection-android-library-so-i-built-one-334c0a307c16#.dl8q7ui0m)    | Nishant Srivastava | February 2017 |
 | [Android Studio Tips](https://medium.com/@mmbialas/50-android-studio-tips-tricks-resources-you-should-be-familiar-with-as-an-android-developer-af86e7cf56d2#.wrene0aa9) | Michal Bialas    |   November 2016  |  
 | [Mastering the terminal side of Android Development ](https://medium.com/@cesarmcferreira/mastering-the-terminal-side-of-android-development-e7520466c521#.s0ve37m8d) | Cesar Ferreira |  November 2016  | 
 | [Best practices for Android Developers Productivity](https://medium.com/@sergii/best-practices-for-android-developer-productivity-cfd6ffba804c#.l0tvs35rv)      | Sergii Zhuk | July 2016 | 

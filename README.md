@@ -30,7 +30,7 @@ Interesting articles and videos to use as reference.
 | [Testing Persistence in the Android ecosystem](https://www.novoda.com/blog/testing-persistence-in-the-android-ecosystem/)    | Luis G. Valle | January 2017 |
 | [React Native at Instagram](https://engineering.instagram.com/react-native-at-instagram-dd828a9a90c7#.8htx8t6eq)    | Instagram Engineering | February 2017 |
 | [Airplane Mode: Enabling Trello Mobile Offline](http://tech.trello.com/sync-architecture/)    | Dan Lew | February 2017 |
-
+| [5 Not So Obvious Things About RxJava](https://medium.com/@jagsaund/5-not-so-obvious-things-about-rxjava-c388bd19efbc#.vt8a6dss7) | Jag Saund | February 2017 |
 
 
 ### Devops & Planning

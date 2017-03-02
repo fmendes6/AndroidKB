@@ -63,6 +63,7 @@ Interesting articles and videos to use as reference.
 | [Android Icon Animator](https://romannurik.github.io/AndroidIconAnimator/)      | Roman Nurik | --- |
 | [Effective Java for Android (cheatsheet)](https://medium.com/rocknnull/effective-java-for-android-cheatsheet-bf4e3433889a#.cmrrxxx6d)      | Netcyrax | November 2016 |
 | [The right way to ask users to review your app](https://medium.com/circa/the-right-way-to-ask-users-to-review-your-app-9a32fd604fca#.xe6xm4frh)      | Matt Galligan | December 2014 |
+| [Optimize your build speed](https://developer.android.com/studio/build/optimize-your-build.html)      | Android Studio | ----- |
 
 
 

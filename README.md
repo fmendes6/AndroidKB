@@ -33,7 +33,9 @@ Interesting articles and videos to use as reference.
 | [Here’s how testing can provide you with the best documentation](https://www.novoda.com/blog/tests-are-the-best-documentation/)    | Tobias Heine | March 2017 |
 | [The evolution journey of Android GUI testing](https://medium.com/@sebaslogen/the-evolution-journey-of-android-gui-testing-f65005f7ced8#.u3l2p7lb1)    | Sebastian Genco | September 2015 |
 | [Airplane Mode: Enabling Trello Mobile Offline](http://tech.trello.com/sync-architecture/)    | Dan Lew | February 2017 |
+| [Offline support: “Try again, later”, no more.](https://medium.com/@yonatanvlevin/offline-support-try-again-later-no-more-afc33eba79dc#.c5o01burn)    | Yonatan V. Levin | March 2017 |
 | [5 Not So Obvious Things About RxJava](https://medium.com/@jagsaund/5-not-so-obvious-things-about-rxjava-c388bd19efbc#.vt8a6dss7) | Jag Saund | February 2017 |
+
 
 
 ### Devops & Planning

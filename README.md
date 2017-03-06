@@ -14,6 +14,7 @@ Interesting articles and videos to use as reference.
 | [Efficient Android Layouts](https://realm.io/news/gotocph-daniel-lew-efficient-android-layouts/)    | Dan Lew | December 2016 |
 | [Introducing Lottie](https://medium.com/airbnb-engineering/introducing-lottie-4ff4a0afac0e#.by1fjjw7e)      | Airbnb | February 2017 |
 | [Shared Element Transitions - Part 4: RecyclerView](http://mikescamell.com/shared-element-transitions-part-4-recyclerview/?utm_term=0_4eb677ad19-dfb62df48f-338120541&utm_content=buffer88906&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)      | Mike Scamell | February 2017 |
+| [Highlighting Search Terms](https://cyrilmottier.com/2017/03/06/highlighting-search-terms/)      | Cyril Mottier | March 2017 |
 
 
 

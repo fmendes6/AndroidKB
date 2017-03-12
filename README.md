@@ -37,6 +37,8 @@ Interesting articles and videos to use as reference.
 | [Offline support: “Try again, later”, no more.](https://medium.com/@yonatanvlevin/offline-support-try-again-later-no-more-afc33eba79dc#.c5o01burn)    | Yonatan V. Levin | March 2017 |
 | [5 Not So Obvious Things About RxJava](https://medium.com/@jagsaund/5-not-so-obvious-things-about-rxjava-c388bd19efbc#.vt8a6dss7) | Jag Saund | February 2017 |
 | [Netflix Downloads on Android](http://techblog.netflix.com/2017/03/downloads-on-android.html?m=1)    | Greg Benson, et al | March 2017 |
+| [The RxJava Repository Pattern](https://www.bignerdranch.com/blog/the-rxjava-repository-pattern/) | Josh Skeen | March 2017 |
+
 
 
 

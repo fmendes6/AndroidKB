@@ -73,6 +73,7 @@ Interesting articles and videos to use as reference.
 | [The right way to ask users to review your app](https://medium.com/circa/the-right-way-to-ask-users-to-review-your-app-9a32fd604fca#.xe6xm4frh)      | Matt Galligan | December 2014 |
 | [Optimize your build speed](https://developer.android.com/studio/build/optimize-your-build.html)      | Android Studio | ----- |
 | [The art of organizing resources](https://speakerdeck.com/jeroenmols/the-art-of-organizing-resources)      | Jeroen Mols | April 2017 |
+| [Streamlining payments on Mobile](https://speakerdeck.com/mathieu_calba/streamlining-payments-on-mobile)      | Mathieu Calba | April 2017 |
 
 
 

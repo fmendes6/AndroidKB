@@ -15,6 +15,8 @@ Interesting articles and videos to use as reference.
 | [Introducing Lottie](https://medium.com/airbnb-engineering/introducing-lottie-4ff4a0afac0e#.by1fjjw7e)      | Airbnb | February 2017 |
 | [Shared Element Transitions - Part 4: RecyclerView](http://mikescamell.com/shared-element-transitions-part-4-recyclerview/?utm_term=0_4eb677ad19-dfb62df48f-338120541&utm_content=buffer88906&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)      | Mike Scamell | February 2017 |
 | [Highlighting Search Terms](https://cyrilmottier.com/2017/03/06/highlighting-search-terms/)      | Cyril Mottier | March 2017 |
+| [Launch Screens: From a tap to your app](https://speakerdeck.com/cyrilmottier/launch-screens-from-a-tap-to-your-app)      | Cyril Mottier | April 2017 |
+| [The evolution of Android Notification](https://speakerdeck.com/jeremiemartinez/the-evolution-of-android-notification)      | Jeremie Martinez | April 2017 |
 
 
 

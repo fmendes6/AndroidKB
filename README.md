@@ -6,11 +6,11 @@ Interesting articles and videos to use as reference.
 
 | Title        | Author           | Date  |
 | ------------- |:-------------:| -----:|
-| [Radical RecyclerView] (https://www.youtube.com/watch?v=TS_J0Qw4zl0)     | Lisa Wray | November 2016 |
-| [Transitions in the Android Support Library] (https://medium.com/google-developers/transitions-in-the-android-support-library-8bc86a1d688e#.h52npyog3)     | Chet Haase | September 2016 |
-| [Animation Jump-Through] (https://medium.com/google-developers/animation-jump-through-861f4f5b3de4#.ok7erv3qx)     | Nick Butcher | December 2016 |
-| [Why isn't my animation running] (https://medium.com/@chrisbanes/why-isnt-my-animation-running-34c529e76eaa#.coldo4797)     | Chris Banes | December 2016 |
-| [Facebook Keyframes] (https://code.facebook.com/posts/354469174916519/)     | Mark Peng | November 2016 |
+| [Radical RecyclerView](https://www.youtube.com/watch?v=TS_J0Qw4zl0)     | Lisa Wray | November 2016 |
+| [Transitions in the Android Support Library](https://medium.com/google-developers/transitions-in-the-android-support-library-8bc86a1d688e#.h52npyog3)     | Chet Haase | September 2016 |
+| [Animation Jump-Through](https://medium.com/google-developers/animation-jump-through-861f4f5b3de4#.ok7erv3qx)     | Nick Butcher | December 2016 |
+| [Why isn't my animation running](https://medium.com/@chrisbanes/why-isnt-my-animation-running-34c529e76eaa#.coldo4797)     | Chris Banes | December 2016 |
+| [Facebook Keyframes](https://code.facebook.com/posts/354469174916519/)     | Mark Peng | November 2016 |
 | [Efficient Android Layouts](https://realm.io/news/gotocph-daniel-lew-efficient-android-layouts/)    | Dan Lew | December 2016 |
 | [Introducing Lottie](https://medium.com/airbnb-engineering/introducing-lottie-4ff4a0afac0e#.by1fjjw7e)      | Airbnb | February 2017 |
 | [Shared Element Transitions - Part 4: RecyclerView](http://mikescamell.com/shared-element-transitions-part-4-recyclerview/?utm_term=0_4eb677ad19-dfb62df48f-338120541&utm_content=buffer88906&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)      | Mike Scamell | February 2017 |
@@ -70,6 +70,7 @@ Interesting articles and videos to use as reference.
 | [Effective Java for Android (cheatsheet)](https://medium.com/rocknnull/effective-java-for-android-cheatsheet-bf4e3433889a#.cmrrxxx6d)      | Netcyrax | November 2016 |
 | [The right way to ask users to review your app](https://medium.com/circa/the-right-way-to-ask-users-to-review-your-app-9a32fd604fca#.xe6xm4frh)      | Matt Galligan | December 2014 |
 | [Optimize your build speed](https://developer.android.com/studio/build/optimize-your-build.html)      | Android Studio | ----- |
+| [The art of organizing resources](https://speakerdeck.com/jeroenmols/the-art-of-organizing-resources)      | Jeroen Mols | April 2017 |
 
 
 

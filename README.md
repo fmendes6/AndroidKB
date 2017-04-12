@@ -40,7 +40,7 @@ Interesting articles and videos to use as reference.
 | [5 Not So Obvious Things About RxJava](https://medium.com/@jagsaund/5-not-so-obvious-things-about-rxjava-c388bd19efbc#.vt8a6dss7) | Jag Saund | February 2017 |
 | [Netflix Downloads on Android](http://techblog.netflix.com/2017/03/downloads-on-android.html?m=1)    | Greg Benson, et al | March 2017 |
 | [The RxJava Repository Pattern](https://www.bignerdranch.com/blog/the-rxjava-repository-pattern/) | Josh Skeen | March 2017 |
-
+| [Dependency Injection in Android](https://www.slideshare.net/VasiliyZukanov/dependency-injection-in-android-74836565?trk=v-feed) | Vasiliy Zukanov | April 2017 |
 
 
 

@@ -17,6 +17,7 @@ Interesting articles and videos to use as reference.
 | [Highlighting Search Terms](https://cyrilmottier.com/2017/03/06/highlighting-search-terms/)      | Cyril Mottier | March 2017 |
 | [Launch Screens: From a tap to your app](https://speakerdeck.com/cyrilmottier/launch-screens-from-a-tap-to-your-app)      | Cyril Mottier | April 2017 |
 | [The evolution of Android Notification](https://speakerdeck.com/jeremiemartinez/the-evolution-of-android-notification)      | Jeremie Martinez | April 2017 |
+| [A nice combination of RxJava and DiffUtil](https://medium.com/@erikhellman/a-nice-combination-of-rxjava-and-diffutil-fe3807186012)      | Erik Hellman | April 2017 |
 
 
 

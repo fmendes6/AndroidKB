@@ -75,6 +75,11 @@ Interesting articles and videos to use as reference.
 | [Optimize your build speed](https://developer.android.com/studio/build/optimize-your-build.html)      | Android Studio | ----- |
 | [The art of organizing resources](https://speakerdeck.com/jeroenmols/the-art-of-organizing-resources)      | Jeroen Mols | April 2017 |
 | [Streamlining payments on Mobile](https://speakerdeck.com/mathieu_calba/streamlining-payments-on-mobile)      | Mathieu Calba | April 2017 |
+| [LCE: Modeling Data Loading in RxJava](https://tech.instacart.com/lce-modeling-data-loading-in-rxjava-b798ac98d80)      | Laimonas Turauskas | April 2017 |
+| [Testing MVP using Espresso and Mockito](https://josiassena.com/testing-mvp-using-espresso-and-mockito)      | Josias Sena | March 2017 |
+
+
+
 
 
 

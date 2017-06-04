@@ -42,6 +42,7 @@ Interesting articles and videos to use as reference.
 | [Netflix Downloads on Android](http://techblog.netflix.com/2017/03/downloads-on-android.html?m=1)    | Greg Benson, et al | March 2017 |
 | [The RxJava Repository Pattern](https://www.bignerdranch.com/blog/the-rxjava-repository-pattern/) | Josh Skeen | March 2017 |
 | [Dependency Injection in Android](https://www.slideshare.net/VasiliyZukanov/dependency-injection-in-android-74836565?trk=v-feed) | Vasiliy Zukanov | April 2017 |
+| [Musing on Architectural Components and Realm and Room, and a look at Reactive Data Layer in Clean Architecture](https://hackernoon.com/musing-on-architectural-components-and-realm-and-room-and-a-look-at-reactive-clean-architecture-880c8df55abf) | Zhuinden | May 2017 |
 
 
 

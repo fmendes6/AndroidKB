@@ -18,7 +18,7 @@ Interesting articles and videos to use as reference.
 | [Launch Screens: From a tap to your app](https://speakerdeck.com/cyrilmottier/launch-screens-from-a-tap-to-your-app)      | Cyril Mottier | April 2017 |
 | [The evolution of Android Notification](https://speakerdeck.com/jeremiemartinez/the-evolution-of-android-notification)      | Jeremie Martinez | April 2017 |
 | [A nice combination of RxJava and DiffUtil](https://medium.com/@erikhellman/a-nice-combination-of-rxjava-and-diffutil-fe3807186012)      | Erik Hellman | April 2017 |
-
+| [A Lottie to like](https://medium.com/@crafty/a-lottie-to-like-6670f2bed3c5)      | Nick Butcher | June 2017 |
 
 
 ### General (Architecture,RxJava,DI,etc.)
@@ -43,6 +43,7 @@ Interesting articles and videos to use as reference.
 | [The RxJava Repository Pattern](https://www.bignerdranch.com/blog/the-rxjava-repository-pattern/) | Josh Skeen | March 2017 |
 | [Dependency Injection in Android](https://www.slideshare.net/VasiliyZukanov/dependency-injection-in-android-74836565?trk=v-feed) | Vasiliy Zukanov | April 2017 |
 | [Musing on Architectural Components and Realm and Room, and a look at Reactive Data Layer in Clean Architecture](https://hackernoon.com/musing-on-architectural-components-and-realm-and-room-and-a-look-at-reactive-clean-architecture-880c8df55abf) | Zhuinden | May 2017 |
+| [From Westinghouse to Android Instant apps, a BuzzFeed Journey](https://tech.buzzfeed.com/from-westinghouse-to-android-instant-apps-60fbfaca4ebe) | Steve Peterson | May 2017 |
 
 
 
@@ -78,7 +79,7 @@ Interesting articles and videos to use as reference.
 | [Streamlining payments on Mobile](https://speakerdeck.com/mathieu_calba/streamlining-payments-on-mobile)      | Mathieu Calba | April 2017 |
 | [LCE: Modeling Data Loading in RxJava](https://tech.instacart.com/lce-modeling-data-loading-in-rxjava-b798ac98d80)      | Laimonas Turauskas | April 2017 |
 | [Testing MVP using Espresso and Mockito](https://josiassena.com/testing-mvp-using-espresso-and-mockito)      | Josias Sena | March 2017 |
-
+| [Kotlin a deeper look](https://medium.com/@rotxed/kotlin-a-deeper-look-8569d4da36f) | Sebastiano Gottardo | June 2017 | 
 
 
 

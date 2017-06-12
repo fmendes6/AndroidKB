@@ -44,6 +44,8 @@ Interesting articles and videos to use as reference.
 | [Dependency Injection in Android](https://www.slideshare.net/VasiliyZukanov/dependency-injection-in-android-74836565?trk=v-feed) | Vasiliy Zukanov | April 2017 |
 | [Musing on Architectural Components and Realm and Room, and a look at Reactive Data Layer in Clean Architecture](https://hackernoon.com/musing-on-architectural-components-and-realm-and-room-and-a-look-at-reactive-clean-architecture-880c8df55abf) | Zhuinden | May 2017 |
 | [From Westinghouse to Android Instant apps, a BuzzFeed Journey](https://tech.buzzfeed.com/from-westinghouse-to-android-instant-apps-60fbfaca4ebe) | Steve Peterson | May 2017 |
+| [Lifecycles make decoupling easy](https://plus.google.com/+IanLake/posts/71PGoNxtYSr) | Ian Lake | June 2017 |
+
 
 
 

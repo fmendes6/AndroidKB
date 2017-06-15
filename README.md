@@ -55,6 +55,7 @@ Interesting articles and videos to use as reference.
 | ------------- |:-------------:| -----:|
 | [Branching model + CI](https://artemzin.com/blog/git-ftfy-branching-model-continuation-of-git-flow-considered-harmful/)     | Artem Zinnatullin | May 2016 |
 | [How we structure our work and teams at Basecamp](https://m.signalvnoise.com/how-we-set-up-our-work-cbce3d3d9cae#.xx91uvqnv)     | Jason Fried | November 2016 |
+| [CI Pipeline and Custom Tools of Android projects at Juno](https://github.com/gojuno/engineering/tree/master/articles/ci_pipeline_and_custom_tools_of_android_projects)     | Artem Zinnatullin | June 2017 |
 
 
 

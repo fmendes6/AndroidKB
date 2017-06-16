@@ -18,7 +18,8 @@ Interesting articles and videos to use as reference.
 | [Launch Screens: From a tap to your app](https://speakerdeck.com/cyrilmottier/launch-screens-from-a-tap-to-your-app)      | Cyril Mottier | April 2017 |
 | [The evolution of Android Notification](https://speakerdeck.com/jeremiemartinez/the-evolution-of-android-notification)      | Jeremie Martinez | April 2017 |
 | [A nice combination of RxJava and DiffUtil](https://medium.com/@erikhellman/a-nice-combination-of-rxjava-and-diffutil-fe3807186012)      | Erik Hellman | April 2017 |
-| [A Lottie to like](https://medium.com/@crafty/a-lottie-to-like-6670f2bed3c5)      | Nick Butcher | June 2017 |
+| [A Lottie to like](https://medium.com/@crafty/a-lottie-to-like-6670f2bed3c5)      | Nick Butcher | June 2017 |
+| [Implementing Complex Animations in Android ](https://medium.com/proandroiddev/implementing-complex-animations-in-android-full-working-code-41979cc2369e) | Muhammad Wajeeh | June 2017 |
 
 
 ### General (Architecture,RxJava,DI,etc.)

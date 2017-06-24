@@ -47,7 +47,7 @@ Interesting articles and videos to use as reference.
 | [Musing on Architectural Components and Realm and Room, and a look at Reactive Data Layer in Clean Architecture](https://hackernoon.com/musing-on-architectural-components-and-realm-and-room-and-a-look-at-reactive-clean-architecture-880c8df55abf) | Zhuinden | May 2017 |
 | [From Westinghouse to Android Instant apps, a BuzzFeed Journey](https://tech.buzzfeed.com/from-westinghouse-to-android-instant-apps-60fbfaca4ebe) | Steve Peterson | May 2017 |
 | [Lifecycles make decoupling easy](https://plus.google.com/+IanLake/posts/71PGoNxtYSr) | Ian Lake | June 2017 |
-
+| [Room 🔗 RxJava](https://medium.com/google-developers/room-rxjava-acb0cd4f3757) | Florina Muntenescu | June 2017 |
 
 
 

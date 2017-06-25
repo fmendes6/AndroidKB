@@ -85,6 +85,8 @@ Interesting articles and videos to use as reference.
 | [LCE: Modeling Data Loading in RxJava](https://tech.instacart.com/lce-modeling-data-loading-in-rxjava-b798ac98d80)      | Laimonas Turauskas | April 2017 |
 | [Testing MVP using Espresso and Mockito](https://josiassena.com/testing-mvp-using-espresso-and-mockito)      | Josias Sena | March 2017 |
 | [Kotlin a deeper look](https://medium.com/@rotxed/kotlin-a-deeper-look-8569d4da36f) | Sebastiano Gottardo | June 2017 | 
+| [Gitlab-ci Toolbox for Android](makingiants.github.io/blog/gitlabci-toolbox-for-android) | caipivara | May 2017 | 
+
 
 
 

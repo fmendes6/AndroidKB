@@ -43,11 +43,13 @@ Interesting articles and videos to use as reference.
 | [5 Not So Obvious Things About RxJava](https://medium.com/@jagsaund/5-not-so-obvious-things-about-rxjava-c388bd19efbc#.vt8a6dss7) | Jag Saund | February 2017 |
 | [Netflix Downloads on Android](http://techblog.netflix.com/2017/03/downloads-on-android.html?m=1)    | Greg Benson, et al | March 2017 |
 | [The RxJava Repository Pattern](https://www.bignerdranch.com/blog/the-rxjava-repository-pattern/) | Josh Skeen | March 2017 |
+| [Android and Dagger 2.10 AndroidInjector](https://android.jlelse.eu/android-and-dagger-2-10-androidinjector-5e9c523679a3) | Nimrod Dayan | March 2017 |
 | [Dependency Injection in Android](https://www.slideshare.net/VasiliyZukanov/dependency-injection-in-android-74836565?trk=v-feed) | Vasiliy Zukanov | April 2017 |
 | [Musing on Architectural Components and Realm and Room, and a look at Reactive Data Layer in Clean Architecture](https://hackernoon.com/musing-on-architectural-components-and-realm-and-room-and-a-look-at-reactive-clean-architecture-880c8df55abf) | Zhuinden | May 2017 |
 | [From Westinghouse to Android Instant apps, a BuzzFeed Journey](https://tech.buzzfeed.com/from-westinghouse-to-android-instant-apps-60fbfaca4ebe) | Steve Peterson | May 2017 |
 | [Lifecycles make decoupling easy](https://plus.google.com/+IanLake/posts/71PGoNxtYSr) | Ian Lake | June 2017 |
 | [Room 🔗 RxJava](https://medium.com/google-developers/room-rxjava-acb0cd4f3757) | Florina Muntenescu | June 2017 |
+
 
 
 

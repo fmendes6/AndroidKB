@@ -88,7 +88,7 @@ Interesting articles and videos to use as reference.
 | [Testing MVP using Espresso and Mockito](https://josiassena.com/testing-mvp-using-espresso-and-mockito)      | Josias Sena | March 2017 |
 | [Kotlin a deeper look](https://medium.com/@rotxed/kotlin-a-deeper-look-8569d4da36f) | Sebastiano Gottardo | June 2017 | 
 | [Gitlab-ci Toolbox for Android](makingiants.github.io/blog/gitlabci-toolbox-for-android) | caipivara | May 2017 | 
-
+| [Five tips to improve your games-as-a-service monetization](https://medium.com/googleplaydev/five-tips-to-improve-your-games-as-a-service-monetization-1a99cccdf21) | Moonlit Beshimov | Jul 2017 | 
 
 
 

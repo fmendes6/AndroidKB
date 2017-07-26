@@ -45,13 +45,18 @@ Interesting articles and videos to use as reference.
 | [The RxJava Repository Pattern](https://www.bignerdranch.com/blog/the-rxjava-repository-pattern/) | Josh Skeen | March 2017 |
 | [Dagger 2: Android Modules](https://proandroiddev.com/dagger-2-android-modules-e168821cfc57) | Ash Davies | May 2017 |
 | [Dependency Injection in Android](https://www.slideshare.net/VasiliyZukanov/dependency-injection-in-android-74836565?trk=v-feed) | Vasiliy Zukanov | April 2017 |
+| [Dagger 2. Part II. Custom scopes, Component dependencies, Subcomponents](https://proandroiddev.com/dagger-2-part-ii-custom-scopes-component-dependencies-subcomponents-697c1fa1cfc) | Eugene Matsyuk | July 2017 |
 | [Musing on Architectural Components and Realm and Room, and a look at Reactive Data Layer in Clean Architecture](https://hackernoon.com/musing-on-architectural-components-and-realm-and-room-and-a-look-at-reactive-clean-architecture-880c8df55abf) | Zhuinden | May 2017 |
 | [From Westinghouse to Android Instant apps, a BuzzFeed Journey](https://tech.buzzfeed.com/from-westinghouse-to-android-instant-apps-60fbfaca4ebe) | Steve Peterson | May 2017 |
 | [Lifecycles make decoupling easy](https://plus.google.com/+IanLake/posts/71PGoNxtYSr) | Ian Lake | June 2017 |
 | [Room 🔗 RxJava](https://medium.com/google-developers/room-rxjava-acb0cd4f3757) | Florina Muntenescu | June 2017 |
-
-
-
+| [Using ResultReceiver to communicate with IntentService](https://proandroiddev.com/intentservice-and-resultreceiver-70de71e5e40a) | akhtar SobatFollow | June 2017 |
+| [Testing Apps on Android](https://developer.android.com/training/testing/index.html) | Android Developers | July 2017 |
+| [ViewModels: Persistence, onSaveInstanceState(), Restoring UI State and Loaders](https://medium.com/google-developers/viewmodels-persistence-onsaveinstancestate-restoring-ui-state-and-loaders-fc7cc4a6c090) | Lyla Fujiwara | July 2017 |
+| [Seguranca no Android](https://speakerdeck.com/rafaeltoledo/seguranca-no-android-2) | Rafael Toledo | July 2017 |
+| [Knowledge boost for junior Android Developers](https://android.jlelse.eu/knowledge-boost-for-junior-android-developers-part-i-b3250fe4b622) | Frank | July 2017 |
+| [Migrating and android project to kotlin](https://medium.com/google-developers/migrating-an-android-project-to-kotlin-f93ecaa329b7) | Ben Weiss | July 2017 |
+| [What we want from a software architecture](https://medium.com/@lpereira/what-we-want-from-a-software-architecture-83931046a14b) | Luis Pereira | July 2017 |
 
 ### Devops & Planning
 
@@ -60,8 +65,6 @@ Interesting articles and videos to use as reference.
 | [Branching model + CI](https://artemzin.com/blog/git-ftfy-branching-model-continuation-of-git-flow-considered-harmful/)     | Artem Zinnatullin | May 2016 |
 | [How we structure our work and teams at Basecamp](https://m.signalvnoise.com/how-we-set-up-our-work-cbce3d3d9cae#.xx91uvqnv)     | Jason Fried | November 2016 |
 | [CI Pipeline and Custom Tools of Android projects at Juno](https://github.com/gojuno/engineering/tree/master/articles/ci_pipeline_and_custom_tools_of_android_projects)     | Artem Zinnatullin | June 2017 |
-
-
 
 
 ### Tools, Tips & Tricks
@@ -89,6 +92,8 @@ Interesting articles and videos to use as reference.
 | [Kotlin a deeper look](https://medium.com/@rotxed/kotlin-a-deeper-look-8569d4da36f) | Sebastiano Gottardo | June 2017 | 
 | [Gitlab-ci Toolbox for Android](makingiants.github.io/blog/gitlabci-toolbox-for-android) | caipivara | May 2017 | 
 | [Five tips to improve your games-as-a-service monetization](https://medium.com/googleplaydev/five-tips-to-improve-your-games-as-a-service-monetization-1a99cccdf21) | Moonlit Beshimov | Jul 2017 | 
+| [ShapeShifter](https://github.com/alexjlockwood/ShapeShifter) | Alex Lockwood | --- |
+
 
 
 

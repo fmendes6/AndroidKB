@@ -12,7 +12,8 @@ Interesting articles and videos to use as reference.
 | [Why isn't my animation running](https://medium.com/@chrisbanes/why-isnt-my-animation-running-34c529e76eaa#.coldo4797)     | Chris Banes | December 2016 |
 | [Facebook Keyframes](https://code.facebook.com/posts/354469174916519/)     | Mark Peng | November 2016 |
 | [Efficient Android Layouts](https://realm.io/news/gotocph-daniel-lew-efficient-android-layouts/)    | Dan Lew | December 2016 |
-| [Introducing Lottie](https://medium.com/airbnb-engineering/introducing-lottie-4ff4a0afac0e#.by1fjjw7e)      | Airbnb | February 2017 |
+| [Introducing 
+ie](https://medium.com/airbnb-engineering/introducing-lottie-4ff4a0afac0e#.by1fjjw7e)      | Airbnb | February 2017 |
 | [Shared Element Transitions - Part 4: RecyclerView](http://mikescamell.com/shared-element-transitions-part-4-recyclerview/?utm_term=0_4eb677ad19-dfb62df48f-338120541&utm_content=buffer88906&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)      | Mike Scamell | February 2017 |
 | [Highlighting Search Terms](https://cyrilmottier.com/2017/03/06/highlighting-search-terms/)      | Cyril Mottier | March 2017 |
 | [Launch Screens: From a tap to your app](https://speakerdeck.com/cyrilmottier/launch-screens-from-a-tap-to-your-app)      | Cyril Mottier | April 2017 |
@@ -57,6 +58,10 @@ Interesting articles and videos to use as reference.
 | [Knowledge boost for junior Android Developers](https://android.jlelse.eu/knowledge-boost-for-junior-android-developers-part-i-b3250fe4b622) | Frank | July 2017 |
 | [Migrating and android project to kotlin](https://medium.com/google-developers/migrating-an-android-project-to-kotlin-f93ecaa329b7) | Ben Weiss | July 2017 |
 | [What we want from a software architecture](https://medium.com/@lpereira/what-we-want-from-a-software-architecture-83931046a14b) | Luis Pereira | July 2017 |
+| [Responses/Errors with Retrofit 2 & RxJava2](https://medium.com/@stustirling/responses-errors-with-retrofit-2-rxjava2-6d55eafecf5a) | Stu Stirling | August 2017 |
+| [The Essential RxJava Guide for Android Developers](http://blog.jimbaca.com/essential-rxjava-guide-for-android-developers/?utm_source=Android+Weekly&utm_campaign=7ece125827-android-weekly-268&utm_medium=email&utm_term=0_4eb677ad19-7ece125827-337869545) | Jim Baca | --- |
+
+
 
 ### Devops & Planning
 
@@ -90,9 +95,12 @@ Interesting articles and videos to use as reference.
 | [LCE: Modeling Data Loading in RxJava](https://tech.instacart.com/lce-modeling-data-loading-in-rxjava-b798ac98d80)      | Laimonas Turauskas | April 2017 |
 | [Testing MVP using Espresso and Mockito](https://josiassena.com/testing-mvp-using-espresso-and-mockito)      | Josias Sena | March 2017 |
 | [Kotlin a deeper look](https://medium.com/@rotxed/kotlin-a-deeper-look-8569d4da36f) | Sebastiano Gottardo | June 2017 | 
+| [Unity and Android](https://android.jlelse.eu/unity-and-android-connecting-the-dots-6368b31e86c5) | Andreas Vourkos | Jun 2017 |
 | [Gitlab-ci Toolbox for Android](makingiants.github.io/blog/gitlabci-toolbox-for-android) | caipivara | May 2017 | 
 | [Five tips to improve your games-as-a-service monetization](https://medium.com/googleplaydev/five-tips-to-improve-your-games-as-a-service-monetization-1a99cccdf21) | Moonlit Beshimov | Jul 2017 | 
 | [ShapeShifter](https://github.com/alexjlockwood/ShapeShifter) | Alex Lockwood | --- |
+| [Bringing smooth animation transitions to Android](https://medium.com/@david.gansterd/bringing-smooth-animation-transitions-to-android-88786347e512) | David Ganster | July 2017 |
+| [Lottie](http://airbnb.io/lottie) | Airbnb | --- |
 
 
 

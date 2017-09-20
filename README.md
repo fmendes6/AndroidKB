@@ -12,8 +12,7 @@ Interesting articles and videos to use as reference.
 | [Why isn't my animation running](https://medium.com/@chrisbanes/why-isnt-my-animation-running-34c529e76eaa#.coldo4797)     | Chris Banes | December 2016 |
 | [Facebook Keyframes](https://code.facebook.com/posts/354469174916519/)     | Mark Peng | November 2016 |
 | [Efficient Android Layouts](https://realm.io/news/gotocph-daniel-lew-efficient-android-layouts/)    | Dan Lew | December 2016 |
-| [Introducing 
-ie](https://medium.com/airbnb-engineering/introducing-lottie-4ff4a0afac0e#.by1fjjw7e)      | Airbnb | February 2017 |
+| [Introducing lottie](https://medium.com/airbnb-engineering/introducing-lottie-4ff4a0afac0e#.by1fjjw7e)      | Airbnb | February 2017 |
 | [Shared Element Transitions - Part 4: RecyclerView](http://mikescamell.com/shared-element-transitions-part-4-recyclerview/?utm_term=0_4eb677ad19-dfb62df48f-338120541&utm_content=buffer88906&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)      | Mike Scamell | February 2017 |
 | [Highlighting Search Terms](https://cyrilmottier.com/2017/03/06/highlighting-search-terms/)      | Cyril Mottier | March 2017 |
 | [Launch Screens: From a tap to your app](https://speakerdeck.com/cyrilmottier/launch-screens-from-a-tap-to-your-app)      | Cyril Mottier | April 2017 |
@@ -22,6 +21,9 @@ ie](https://medium.com/airbnb-engineering/introducing-lottie-4ff4a0afac0e#.by1fj
 | [A Lottie to like](https://medium.com/@crafty/a-lottie-to-like-6670f2bed3c5)      | Nick Butcher | June 2017 |
 | [Implementing Complex Animations in Android ](https://medium.com/proandroiddev/implementing-complex-animations-in-android-full-working-code-41979cc2369e) | Muhammad Wajeeh | June 2017 |
 | [Learning to develop Jobandtalent’s design system for Android](https://jobandtalent.engineering/learning-to-develop-jobandtalents-design-system-for-android-54160a571d7b)      | Jorge Rodriguez | June 2017 |
+| [Bodymovin to Android](https://medium.com/google-design/bodymovin-to-android-6e53e5f7a96)      | Nick Butcher | Aug 2017 |
+| [From Design to Android Part 2](https://medium.com/@saulmm2/from-design-to-android-part-2-2a6c141547d9)      | Saul Molinero | September 2017 |
+| [CONSTRAINTLAYOUT – GUIDELINES, BARRIERS, CHAINS AND GROUPS](https://riggaroo.co.za/constraintlayout-guidelines-barriers-chains-groups/)      | Rebecca Franks | September 2017 |
 
 
 ### General (Architecture,RxJava,DI,etc.)

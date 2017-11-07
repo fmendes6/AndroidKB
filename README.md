@@ -104,6 +104,8 @@ Interesting articles and videos to use as reference.
 | [Bringing smooth animation transitions to Android](https://medium.com/@david.gansterd/bringing-smooth-animation-transitions-to-android-88786347e512) | David Ganster | July 2017 |
 | [Lottie](http://airbnb.io/lottie) | Airbnb | --- |
 | [Why your Push Notifications never see the light of day](https://medium.freecodecamp.org/why-your-push-notifications-never-see-the-light-of-day-3fa297520793) | Neil Mathew | Oct 2017 |
+| [Generating Efficient APK by Reducing Size & Improving Performance](https://speakerdeck.com/pareshmayani/generating-efficient-apk-by-reducing-size-and-improving-performance/) | Paresh Mayani | Nov 2017 |
+
 
 
 
